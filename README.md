@@ -1,8 +1,8 @@
 Building
 ----
-Install go: http://golang.org/doc/install
-Install portaudio: www.portaudio.com/download.html
-Install portaudio-go:
+- Install go: http://golang.org/doc/install
+- Install portaudio: www.portaudio.com/download.html
+- Install portaudio-go:
 
     go get 
 
